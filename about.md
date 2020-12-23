@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: single
 title: אודות
-permalink: /about/
 ---
 
 סתם אחד  

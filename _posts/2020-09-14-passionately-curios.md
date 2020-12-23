@@ -1,8 +1,5 @@
 ---
-layout: post
 title:  "סקרנות!"
-date:   2020-12-17 21:15:40 +0200
-categories: jekyll update
 ---
 
 למה לעשות תרגילי כח?  
