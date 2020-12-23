@@ -1,6 +1,7 @@
 ---
 layout: single
-title: אודות
+title: קצת עלי
+author_profile: true
 ---
 
 סתם אחד  
