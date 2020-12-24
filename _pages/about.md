@@ -1,7 +1,6 @@
 ---
-layout: single
 title: קצת עלי
-author_profile: true
+permalink: /about/
 ---
 
 סתם אחד  
