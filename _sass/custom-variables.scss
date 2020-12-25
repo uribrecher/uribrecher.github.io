@@ -9,3 +9,9 @@ $start-direction     :right;
 $end-direction       :left;
 
 $transform-direction :-1;
+
+$serif              : "David Libre", "PT Serif", Georgia, Times, serif;
+$sans-serif-narrow  : "Secular One", "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+
+$global-font-family : $serif;
+$header-font-family : $sans-serif-narrow;
