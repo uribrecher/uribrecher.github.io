@@ -1,5 +1,6 @@
 ---
 title:  "Screen addiction"
+dir: ltr
 ---
 
 In our world of everything social: social distancing, social dilemma, social justice,
