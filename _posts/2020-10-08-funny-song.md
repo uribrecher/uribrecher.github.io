@@ -1,7 +1,11 @@
 ---
 title:  "מה נסגר?"
+header:
+  overlay_image: /assets/images/dis-order.PNG
+  caption: "צילום: history cool kids on instagram"
 ---
 
+<!--more-->
 רציתי להגיד לכם ש
   
 אם אתם נהנים עכשיו,  

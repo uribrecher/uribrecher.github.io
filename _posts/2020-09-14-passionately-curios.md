@@ -1,7 +1,9 @@
 ---
 title:  "סקרנות!"
+header:
+  image: /assets/images/passionately-curious.jpg
 ---
-
+<!--more-->
 למה לעשות תרגילי כח?  
 כדי לחזק את השרירים
 

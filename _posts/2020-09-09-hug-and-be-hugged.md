@@ -1,10 +1,12 @@
 ---
 title:  "מה ההבדל?"
+header:
+  overlay_image: /assets/images/hug.jpg
+  caption: "Al Bello/Getty Images"
 ---
-
 מה ההבדל בין לחבק  
 ללהיות מחובק?
-
+<!--more-->
 לחבק זה לעטוף ולתמוך במישהו  
 להיות מחובק זה להישען, להיתמך  
 לאפשר למישהו לעטוף אותי

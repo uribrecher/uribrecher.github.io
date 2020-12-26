@@ -1,9 +1,14 @@
 ---
 title:  "Screen addiction"
 dir: ltr
+header:
+  overlay_image: /assets/images/screens.jpg
+  caption: "צילום: אורי ברכר, הרצליה"
 ---
 
-In our world of everything social: social distancing, social dilemma, social justice,
+In our world of everything social:
+<!--more-->
+social distancing, social dilemma, social justice,
 it is almost too easy to overflow our minds in an endless feed of loud and overbearing words and images.
 During confinement periods, the screen may seem like an inevitable choice. 
 Although we might mistake all this a harmless virtual walk in the park,

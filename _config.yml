@@ -280,6 +280,7 @@ defaults:
       share: true
       related: false
       show_date: true
+      excerpt_separator: <!--more-->
   # _pages
   - scope:
       path: ""
