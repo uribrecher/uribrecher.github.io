@@ -1,8 +1,7 @@
 ---
 title:  "בלדה לקורונה"
 header:
-  overlay_image: /assets/images/cactus.jpg
-  caption: "צילום: אורי ברכר, עין שמר"
+  image: /assets/images/its-not-about-safety.png
 ---
 כְּשֶׁשָּׁמַעְתִּי עָלַיִךְ לָרִאשׁוֹנָה  
 הָיִית כָּל כָּךְ מְלֵאָה בְּעַצְמֵךְ  
