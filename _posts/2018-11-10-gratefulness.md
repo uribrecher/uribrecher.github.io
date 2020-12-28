@@ -3,6 +3,7 @@ title:  "תודה🙏"
 header:
   overlay_image: /assets/images/walking.jpg
   caption: "צילום: אורי ברכר"
+  teaser: /assets/images/walking.jpg
 ---
 <!--more-->
 לפני כמה חודשים נפצעתי בברך במהלך ריקוד. נאלצתי לוותר על הרבה מהפעילויות הגופניות והתנועתיות שהפכו להיות חלק משמעותי באורך החיים שלי. זה היה מטלטל וכואב וזה הגיע בזמן מאוד לא נוח שבו הגוף היה עוגן מאוד חזק בחיים שלי. העוגן התנתק ממני, הרגשתי שאני נסחף, הייתי אבוד, נאבקתי בזרם. זה היה כואב ועצוב.

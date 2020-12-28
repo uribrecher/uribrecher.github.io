@@ -3,6 +3,7 @@ title:  "יום מושלם"
 header:
   overlay_image: /assets/images/walking.jpg
   caption: "צילום: אורי ברכר"
+  teaser: /assets/images/walking.jpg
 ---
 <!--more-->
 אתמול חגגתי את יום ההולדת ה- 42 שלי כאן. לא עשיתי תוכניות. בניגוד מוחלט להרגל שלי הפעם נתתי למציאות להפתיע אותי וזה מה שקיבלתי:

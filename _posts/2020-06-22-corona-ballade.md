@@ -2,6 +2,7 @@
 title:  "בלדה לקורונה"
 header:
   image: /assets/images/its-not-about-safety.png
+  teaser: /assets/images/its-not-about-safety.png
 ---
 כְּשֶׁשָּׁמַעְתִּי עָלַיִךְ לָרִאשׁוֹנָה  
 הָיִית כָּל כָּךְ מְלֵאָה בְּעַצְמֵךְ  

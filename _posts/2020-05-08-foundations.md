@@ -3,6 +3,7 @@ title:  "יסודות"
 header:
   overlay_image: /assets/images/walking.jpg
   caption: "צילום: אורי ברכר"
+  teaser: /assets/images/walking.jpg
 ---
 
 יש דברים שאני עושה כי אני נהנה לעשות אותם.

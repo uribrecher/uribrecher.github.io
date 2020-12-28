@@ -3,6 +3,7 @@ title:  "לראות את הטוב"
 header:
   overlay_image: /assets/images/see-the-light.jpg
   caption: "צילום: אורי ברכר, חולון"
+  teaser: /assets/images/see-the-light.jpg
 ---
 לזהות רוע ושליליות זה קל מידי, אז אתגרתי את עצמי והחלטתי למצוא את הטוב שיש בכל הדברים.
 <!--more-->

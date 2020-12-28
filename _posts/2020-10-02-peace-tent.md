@@ -3,6 +3,7 @@ title:  "סוכת שלום"
 header:
   overlay_image: /assets/images/peace-tent.jpg
   caption: "צילום: אורי ברכר, גבעת עדה"
+  teaser: /assets/images/peace-tent.jpg
 ---
 השנה החלטתי לבנות סוכה. זו היתה החלטה ספונטנית, <!--more-->ולמעשה זו גם הפעם הראשונה שלי.
 קניתי קורות עץ וברגים, בכל זאת לא היה פטיש ולא מסמר כי אפילו לי יש קווים אדומים.

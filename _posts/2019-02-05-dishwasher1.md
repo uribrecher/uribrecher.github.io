@@ -3,6 +3,7 @@ title:  "סיפורי מדיח (חלק 1 מתוך 2)"
 header:
   overlay_image: /assets/images/walking.jpg
   caption: "צילום: אורי ברכר"
+  teaser: /assets/images/walking.jpg
 ---
 <!--more-->
 כמו חדש…

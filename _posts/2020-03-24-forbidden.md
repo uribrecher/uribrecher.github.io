@@ -3,6 +3,7 @@ title:  "הפרי האסור"
 header:
   overlay_image: /assets/images/walking.jpg
   caption: "צילום: אורי ברכר"
+  teaser: /assets/images/walking.jpg
 ---
 <!--more-->
 פתאום מתחשק לי לכתוב על מה שאסור. בא לי לכתוב על תנועה ומגע.

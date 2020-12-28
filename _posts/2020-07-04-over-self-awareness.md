@@ -2,6 +2,7 @@
 title:  "עודף מודעות עצמית"
 header:
   overlay_image: /assets/images/self-centered.jpeg
+  teaser: /assets/images/self-centered.jpeg
 ---
 אנחנו למודי נסיון ובעלי מודעות עצמית גבוהה.<!--more-->
 ״מתי בפעם האחרונה עשית משהו בפעם הראשונה?״.
