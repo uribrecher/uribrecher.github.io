@@ -3,7 +3,7 @@ title:  "אבהות"
 header:
   overlay_image: /assets/images/fatherhood.jpg
   caption: "צילום: טלי ברכר, חולון"
-  teaser: /assets/images/fatherhood.jpg
+  teaser: /assets/images/teasers/fatherhood.jpg
 ---
 
 הילד מפחד ממים בעיניים  

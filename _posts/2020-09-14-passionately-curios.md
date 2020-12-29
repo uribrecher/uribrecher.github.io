@@ -2,7 +2,7 @@
 title:  "סקרנות!"
 header:
   image: /assets/images/passionately-curious.jpg
-  teaser: /assets/images/passionately-curious.jpg
+  teaser: /assets/images/teasers/passionately-curious.jpg
 ---
 <!--more-->
 למה לעשות תרגילי כח?  

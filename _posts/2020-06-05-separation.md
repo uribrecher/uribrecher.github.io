@@ -1,9 +1,9 @@
 ---
 title:  "אשליית הנפרדות"
 header:
-  overlay_image: /assets/images/walking.jpg
-  caption: "צילום: אורי ברכר"
-  teaser: /assets/images/walking.jpg
+  overlay_image: /assets/images/bridge.jpg
+  caption: "צילום: אורי ברכר, יוון"
+  teaser: /assets/images/teasers/bridge.jpg
 ---
 
 קשה להיות חייל צייתן שמבצע כל היום פקודות שהונחתו בידי אחרים.<!--more-->

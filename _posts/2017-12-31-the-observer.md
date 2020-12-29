@@ -1,9 +1,9 @@
 ---
 title:  "הצופה"
 header:
-  overlay_image: /assets/images/nadav1.jpg
+  overlay_image: /assets/images/the-observer.jpg
   caption: "צילום: אורי ברכר, חדרה"
-  teaser: /assets/images/nadav1.jpg
+  teaser: /assets/images/teasers/the-observer.jpg
 ---
 <!--more-->
 

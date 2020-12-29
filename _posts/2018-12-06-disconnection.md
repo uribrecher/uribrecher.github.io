@@ -1,9 +1,9 @@
 ---
 title:  "ניתוק"
 header:
-  overlay_image: /assets/images/walking.jpg
+  overlay_image: /assets/images/sugar.jpg
   caption: "צילום: אורי ברכר"
-  teaser: /assets/images/walking.jpg
+  teaser: /assets/images/teasers/sugar.jpg
 ---
 <!--more-->
 בימים האחרונים אני מרגיש כיווץ וצורך להסתגר ולהתנתק. הגוף כואב בכל מיני מקומות וגם המוזות שותקות ונותנות לגשם לשטוף בשקט. אני מקבל את הכאב הזה באהבה ובסבלנות. אני יודע שהכל בר חלוף ואין טעם להיאחז בקושי וגם לא בשמחה כשהיא נוכחת.

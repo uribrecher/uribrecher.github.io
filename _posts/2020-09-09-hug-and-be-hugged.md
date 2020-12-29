@@ -3,7 +3,7 @@ title:  "מה ההבדל?"
 header:
   overlay_image: /assets/images/hug.jpg
   caption: "Al Bello/Getty Images"
-  teaser: /assets/images/hug.jpg
+  teaser: /assets/images/teasers/hug.jpg
 ---
 מה ההבדל בין לחבק  
 ללהיות מחובק?

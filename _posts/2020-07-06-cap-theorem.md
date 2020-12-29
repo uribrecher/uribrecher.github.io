@@ -3,7 +3,7 @@ title:  "חוסר סנכרון זמני"
 header:
   overlay_image: /assets/images/cactus.jpg
   caption: "צילום: אורי ברכר, עין שמר"
-  teaser: /assets/images/cactus.jpg
+  teaser: /assets/images/teasers/cactus.jpg
 ---
 נתקלתי (לפני כמה שנים טובות) בטענה מעניינת וממנה אני רוצה ללמוד משהו על הטבע (טבע האדם).<!--more-->
 מדובר על טענה מהעולם של מערכות מחשב מבוזרות שנקראת Brewer's conjecture על שמו של Eric Brewer,

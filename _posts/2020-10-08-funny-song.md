@@ -3,7 +3,7 @@ title:  "מה נסגר?"
 header:
   overlay_image: /assets/images/dis-order.png
   caption: "צילום: history cool kids on instagram"
-  teaser: /assets/images/dis-order.png
+  teaser: /assets/images/teasers/dis-order.png
 ---
 רָצִיתִי לְהַגִּיד לָכֶם ש<!--more-->
 

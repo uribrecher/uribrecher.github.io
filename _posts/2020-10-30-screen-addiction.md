@@ -4,7 +4,7 @@ dir: ltr
 header:
   overlay_image: /assets/images/screens.jpg
   caption: "צילום: אורי ברכר, הרצליה"
-  teaser: /assets/images/screens.jpg
+  teaser: /assets/images/teasers/screens.jpg
 ---
 
 In our world of everything social:

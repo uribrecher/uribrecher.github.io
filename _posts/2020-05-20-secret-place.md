@@ -3,7 +3,7 @@ title:  "המקום הסודי"
 header:
   overlay_image: /assets/images/walking.jpg
   caption: "צילום: אורי ברכר"
-  teaser: /assets/images/walking.jpg
+  teaser: /assets/images/teasers/walking.jpg
 ---
 
 שבת, מוקדם בבוקר.<!--more-->

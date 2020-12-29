@@ -3,7 +3,7 @@ title:  "הרכבת של בנימינה רבתי"
 header:
   overlay_image: /assets/images/train.jpg
   caption: "צילום: אורי ברכר, בנימינה"
-  teaser: /assets/images/train.jpg
+  teaser: /assets/images/teasers/train.jpg
 ---
 
 בְּבִנְיָמִינָה רַבָּתִי יֵשׁ רַכָּבוֹת<!--more-->  

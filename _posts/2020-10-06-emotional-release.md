@@ -3,7 +3,7 @@ title:  "שחרור רגשי"
 header:
   overlay_image: /assets/images/the-athena-woman.jpeg
   caption: "Dave Killien, Oregon"
-  teaser: /assets/images/the-athena-woman.jpeg
+  teaser: /assets/images/teasers/the-athena-woman.jpeg
 ---
 יש בי כעס שמבעבע מבפנים. זה מתחיל ככה בקטנה, בדברים היומיומיים.<!--more-->
 מישהו צפר לי בכביש, האפרסקים שקניתי אצל הירקן נראו ממש טוב מבחוץ, אבל בפנים סיפור אחר

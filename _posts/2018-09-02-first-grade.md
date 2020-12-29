@@ -3,7 +3,7 @@ title:  "נדב בכתה א׳"
 header:
   overlay_image: /assets/images/nadav1.jpg
   caption: "צילום: אורי ברכר, חדרה"
-  teaser: /assets/images/nadav1.jpg
+  teaser: /assets/images/teasers/nadav1.jpg
 sidebar:
   - image: /assets/images/nadav2.jpg
 ---
