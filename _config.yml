@@ -110,7 +110,7 @@ author:
       # url: "https://twitter.com/uribrecher"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/profile.php?id=100007440136290"
+      url: "fb://profile/100007440136290?id=100007440136290"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/uribrecher"
