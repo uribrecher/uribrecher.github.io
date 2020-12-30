@@ -4,9 +4,9 @@ header:
   image: /assets/images/passionately-curious.jpg
   teaser: /assets/images/teasers/passionately-curious.jpg
 ---
-<!--more-->
+
 למה לעשות תרגילי כח?  
-כדי לחזק את השרירים
+כדי לחזק את השרירים<!--more-->
 
 למה לרוץ?  
 כדי לשפר סיבולת לב ריאה
