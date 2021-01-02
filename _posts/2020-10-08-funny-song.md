@@ -1,9 +1,9 @@
 ---
 title:  "מה נסגר?"
 header:
-  overlay_image: /assets/images/dis-order.png
-  caption: "צילום: history cool kids on instagram"
-  teaser: /assets/images/teasers/dis-order.png
+  overlay_image: /assets/images/splash.jpg
+  caption: "צילום: אורי ברכר, אביאל"
+  teaser: /assets/images/teasers/splash.jpg
 ---
 רָצִיתִי לְהַגִּיד לָכֶם ש<!--more-->
 
