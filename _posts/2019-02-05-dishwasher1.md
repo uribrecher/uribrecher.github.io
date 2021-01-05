@@ -1,9 +1,9 @@
 ---
-title:  "כמו חדש (חלק 1 מתוך 2)"
+title:  "כמו חדש"
 header:
-  overlay_image: /assets/images/walking.jpg
-  caption: "צילום: אורי ברכר"
-  teaser: /assets/images/teasers/walking.jpg
+  overlay_image: /assets/images/sprout.jpg
+  caption: "צילום: אורי ברכר, זכרון יעקב"
+  teaser: /assets/images/teasers/sprout.jpg
 ---
 
 הבוקר קמתי למטבח מלוכלך ודי הפוך. התחלתי לסדר את הכלים המלוכלכים במדיח.<!--more-->

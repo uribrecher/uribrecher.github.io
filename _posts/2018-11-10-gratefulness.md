@@ -1,9 +1,9 @@
 ---
 title:  "תודה🙏"
 header:
-  overlay_image: /assets/images/walking.jpg
-  caption: "צילום: אורי ברכר"
-  teaser: /assets/images/teasers/walking.jpg
+  overlay_image: /assets/images/thank-you.jpg
+  caption: "צילום: אורי ברכר, תל אביב"
+  teaser: /assets/images/teasers/thank-you.jpg
 ---
 
 לפני כמה חודשים נפצעתי בברך במהלך ריקוד.<!--more-->

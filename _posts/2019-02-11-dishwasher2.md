@@ -1,9 +1,9 @@
 ---
-title:  "אשליית השליטה (חלק 2 מתוך 2)"
+title:  "לראות מעבר"
 header:
-  overlay_image: /assets/images/walking.jpg
-  caption: "צילום: אורי ברכר"
-  teaser: /assets/images/teasers/walking.jpg
+  overlay_image: /assets/images/look-beyond.jpg
+  caption: "צילום: אורי ברכר, יוון"
+  teaser: /assets/images/teasers/look-beyond.jpg
 ---
 
 לא מזמן החלפנו מדיח. המדיח הישן סבל ככל הנראה מסתימה בצנרת,<!--more-->

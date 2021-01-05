@@ -1,9 +1,9 @@
 ---
-title:  "מעבדות לחירות תעסוקתית"
+title:  "מעבדות לחירות"
 header:
-  overlay_image: /assets/images/walking.jpg
-  caption: "צילום: אורי ברכר"
-  teaser: /assets/images/teasers/walking.jpg
+  overlay_image: /assets/images/break-free.jpg
+  caption: "צילום: אורי ברכר, זכרון יעקב"
+  teaser: /assets/images/teasers/break-free.jpg
 ---
 
 לפני שנה עברתי שבוע מורט עצבים שבסופו
