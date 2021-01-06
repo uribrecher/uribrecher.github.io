@@ -1,9 +1,9 @@
 ---
 title:  "יסודות"
 header:
-  overlay_image: /assets/images/walking.jpg
+  overlay_image: /assets/images/the-beach.jpg
   caption: "צילום: אורי ברכר"
-  teaser: /assets/images/teasers/walking.jpg
+  teaser: /assets/images/teasers/the-beach.jpg
 ---
 
 יש דברים שאני עושה כי אני נהנה לעשות אותם.
