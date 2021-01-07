@@ -1,3 +1,5 @@
 main:
-  - title: "אודות"
+  - title: "טיפה עלי"
     url: /about/
+  - title: "מפגשים אישיים"
+    url: /one-on-one/
