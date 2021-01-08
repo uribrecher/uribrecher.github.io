@@ -20,7 +20,7 @@ title                    : "סקרנות זהירה"
 title_separator          : "-"
 subtitle                 : "להרשות לעצמי להיות מופתע כל פעם מחדש" # site tagline that appears below site title in masthead
 name                     : "אורי ברכר"
-description              : "שירים מטופשים, סיפורים מרגשים מהחיים ושאר ירקות"
+description              : "סיפורים מרגשים, שירים משונים, תובנות קטנות על החיים"
 url                      : "https://uribrecher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "uribrecher/uribrecher.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
