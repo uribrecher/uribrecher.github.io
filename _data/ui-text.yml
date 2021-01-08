@@ -1879,7 +1879,7 @@ he: &DEFAULT_HE
   comments_title             : "הערות"
   more_label                 : "קראו עוד"
   related_label              : "אולי יעניין אותך גם"
-  follow_label               : "עקבו אחרי"
+  follow_label               : ""
   feed_label                 : "פיד"
   powered_by                 : "Powered by"
   website_label              : "אתר"
