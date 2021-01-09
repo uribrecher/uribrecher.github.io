@@ -1,5 +1,7 @@
 main:
   - title: "טיפה עלי"
     url: /about/
+  - title: "מה אני עושה"
+    url: /services/
   - title: "מפגשים אישיים"
     url: /one-on-one/

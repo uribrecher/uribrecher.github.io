@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "he-IL"
 title                    : "סקרנות זהירה"
 title_separator          : "-"
-subtitle                 : "להרשות לעצמי להיות מופתע כל פעם מחדש" # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "אורי ברכר"
 description              : "סיפורים מרגשים, שירים משונים, תובנות קטנות על החיים"
 url                      : "https://uribrecher.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -98,28 +98,7 @@ analytics:
 author:
   name             : "אורי ברכר"
   avatar           : "/assets/images/self.jpg"
-  bio              :
-  location         :
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:uri.brecher@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://freewill-software.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/uribrecher"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "fb://profile/100007440136290?id=100007440136290"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/uribrecher"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/uribrecher"
+  bio              : "מדריך טרילותרפיה מוסמך"
 
 # Site Footer
 footer:

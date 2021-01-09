@@ -18,7 +18,42 @@ body {
   text-align: left;
 }
 
+
 .dir-rtl {
   direction: rtl;
   text-align: right;
+}
+
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 200px;
+  height: 200px;
+
+  @include breakpoint($large) {
+    display: block;
+    width: 150px;
+    height: 150px;
+  }
+
+  img {
+    max-width: 300px;
+    border-radius: 15%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
+  }
+}
+
+.author__urls-wrapper {
+    display: none
+}
+
+.greedy-nav {
+   .hidden-links {
+      left: 0;
+      right: auto;
+   }
 }
