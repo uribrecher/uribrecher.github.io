@@ -4,6 +4,7 @@ header:
   overlay_image: /assets/images/green-house.jpg
   caption: "צילום: אורי ברכר, גבעת עדה"
   teaser: /assets/images/teasers/green-house.jpg
+  og_image: /assets/images/teasers/green-house.jpg
 ---
 נדב הולך ל״שומרי הגן״. זה חוג מקסים שקורה ביער. <!--more-->
 קבוצה של ילדים ומדריך מבוגר שרגילים לחיות בבית בנוי מלבנים, פוגשים את הטבע לכמה שעות בכל שבוע.

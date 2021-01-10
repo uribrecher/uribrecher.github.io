@@ -4,6 +4,7 @@ header:
   overlay_image: /assets/images/white-balloons.jpg
   caption: "צילום: אורי ברכר, גבעת עדה"
   teaser: /assets/images/teasers/white-balloons.jpg
+  og_image: /assets/images/teasers/white-balloons.jpg
 ---
 
 זה קרה לגמרי במקרה, באמת שלא תכננתי את זה, אבל עבורי זו היתה תגלית מרעישה.<!--more-->
