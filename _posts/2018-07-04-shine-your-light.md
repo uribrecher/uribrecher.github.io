@@ -1,9 +1,9 @@
 ---
 title:  "להפיץ את האור"
 header:
-  overlay_image: /assets/images/lunar-eclipse.png
+  overlay_image: /assets/images/lunar-eclipse.jpg
   caption: "צילום: אורי ברכר, גבעת עדה"
-  teaser: /assets/images/teasers/lunar-eclipse.png
+  teaser: /assets/images/teasers/lunar-eclipse.jpg
 ---
 
 באנו לעולם הזה כדי להפיץ קצת אור ואהבה וגם לקבל קצת מאחרים.
