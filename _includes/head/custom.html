@@ -15,5 +15,9 @@
 
 <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=David+Libre&family=Secular+One&display=swap" rel="stylesheet">
+
+{% if page.robots %}
+<meta name="robots" content="{{page.robots}}" />
+{% endif %}
 <!-- end custom head snippets -->
 {% seo %}
